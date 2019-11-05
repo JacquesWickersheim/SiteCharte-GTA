@@ -1,0 +1,104 @@
+@charset "UTF-8";
+
+body
+{
+	background-image: url("https://i.imgur.com/HOzLCsb.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.header
+{
+	background-color: rgba(145, 145, 145, 0.5);
+	padding-top: 20px;
+	
+}
+
+.titre1_accueil
+{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: red;
+	font-size: 32px;
+	font-style-type: italic;
+}
+
+a
+{
+	text-decoration: none;
+	text-color: #ba3602;
+}
+
+.navbar
+{
+	display: content;
+	justify-content: right;
+	align-item: right;
+	text-align: right;
+}
+
+.navbar a
+{
+	display: flex;
+	color: white;
+}
+
+.navbar ul
+{
+	color: white;
+	list-style-type: none;
+}
+
+.navbar li
+{
+	color: white;
+	
+	display: inline-block;
+}
+
+.navbar li a
+{
+	display: block;
+	color: white;
+	text-align: right;
+	padding: 15px;
+	border-left: 1px solid red;
+	border-right: 1px solid red;
+	text-decoration: none;
+	background-color: black;
+}
+
+.navbar li a:hover
+{
+	background-color: black;
+}
+
+/* Fin entête, navbar et image et background*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
